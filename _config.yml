@@ -137,17 +137,17 @@ keywords: "nima kambarani,nima,profile"
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-page-col: "#E4F9F5"
-text-col: "#40514E"
-link-col: "#30E3CA"
-hover-col: "#E1F5F7"
-navbar-col: "#40514E"
-navbar-text-col: "#30E3CA"
-navbar-border-col: "#11999E"
-footer-col: "#40514E"
-footer-text-col: "#30E3CA"
-footer-link-col: "#30E3CA"
-footer-hover-col: "#E4F9F5"
+page-col: "#233142"
+text-col: "#EBF7FD"
+link-col: "#A5DEF1"
+hover-col: "#36506C"
+navbar-col: "#233142"
+navbar-text-col: "#A5DEF1"
+navbar-border-col: "#36506C"
+footer-col: "#233142"
+footer-text-col: "#A5DEF1"
+footer-link-col: "#A5DEF1"
+footer-hover-col: "#EBF7FD"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
