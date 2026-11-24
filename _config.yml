@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: About Nima
+title: Nima Kambarani
 
 # Your name to show in the footer
 author: Nima Kambarani
@@ -20,7 +20,7 @@ author: Nima Kambarani
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
+  About: "aboutme"
   Research: "research"
 
   # Resources:
@@ -77,7 +77,7 @@ social-network-links:
 #  mastodon: instance.url/@username
 #  bluesky: yourname
 #  ORCID: your ORCID ID
-#  google-scholar: your google scholar
+  google-scholar: https://scholar.google.com/citations?user=x4iEvP8AAAAJ&hl=en
 #  discord: "invite_code" or "users/userid" or "invite/invite_code"
 #  kaggle: yourname
 #  hackerrank: yourname
@@ -88,7 +88,7 @@ social-network-links:
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
-rss-description: This website is a virtual proof of my awesome works.
+rss-description: This website is a virtual proof of nima's awesome works.
 
 ###########################
 # --- General options --- #
@@ -130,7 +130,7 @@ edit_page_button: false
 navbar-var-length: false
 
 # The keywords to associate with your website, for SEO purposes
-keywords: "nima kambarani,nima,profile"
+keywords: "nima kambarani,nima,profile, نیما کمبرانی"
 
 ######################################
 # --- Colours / background image --- #
